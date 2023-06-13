@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skycreeds
 - 👀 I’m interested in machine learning,deep learning and development 
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning machine learning and DL
+- 💞️ I’m looking to collaborate on ML and DL projects
 - 📫 How to reach me skycreed77@gmail.com
 
 <!---
